@@ -21,3 +21,11 @@
 於是便可在params.txt輸入這兩個路徑:
 ![圖3](https://github.com/jiannan1828/SyncTool/blob/main/ParaSources.png)
 
+
+
+然後執行程式後可以看到提示:
+需要你指令 "來源" 與 "目標"
+![圖4](https://github.com/jiannan1828/SyncTool/blob/main/ExecuteState.png)
+
+
+
