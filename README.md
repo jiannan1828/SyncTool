@@ -6,3 +6,8 @@
 這個是我同步的狀況:
 ![這個是我同步的狀況](https://github.com/jiannan1828/SyncTool/blob/main/SyncWithNetDrive.png)
 
+而同步路徑的清單，由外部的純文字文件列舉:
+![而同步路徑的清單，由外部的純文字文件列舉:](https://github.com/jiannan1828/SyncTool/blob/main/ListPara.png)
+
+
+
