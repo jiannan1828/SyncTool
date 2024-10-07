@@ -17,3 +17,7 @@
 
 
 
+舉一個例子，假如我在桌面建立了兩個資料夾，分別為: Source / Target
+於是便可在params.txt輸入這兩個路徑:
+![圖3](https://github.com/jiannan1828/SyncTool/blob/main/ParaSources.png)
+
