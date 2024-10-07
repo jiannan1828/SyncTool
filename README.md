@@ -19,19 +19,28 @@
 
 舉一個例子，假如我在桌面建立了兩個資料夾，分別為: Source / Target
 於是便可在params.txt輸入這兩個路徑:
+
 ![圖3](https://github.com/jiannan1828/SyncTool/blob/main/ParaSources.png)
 
 
 
 然後執行程式後可以看到提示:
 需要你指令 "來源" 與 "目標"
+
 ![圖4](https://github.com/jiannan1828/SyncTool/blob/main/ExecuteState.png)
 
 
 
 當選定了 "來源" 與 "目標" 後，
 會再次詢問是否開始進行同步:
+
 ![圖5](https://github.com/jiannan1828/SyncTool/blob/main/SelectDone.png)
+
+
+
+執行後，可以看到同步工具每分鐘檢查Source/Target資料夾狀況
+
+![圖6](https://github.com/jiannan1828/SyncTool/blob/main/Status0.png)
 
 
 
