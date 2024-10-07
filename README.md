@@ -29,3 +29,9 @@
 
 
 
+當選定了 "來源" 與 "目標" 後，
+會再次詢問是否開始進行同步:
+![圖5](https://github.com/jiannan1828/SyncTool/blob/main/SelectDone.png)
+
+
+
