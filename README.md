@@ -4,7 +4,7 @@
 於是乾脆自己來寫一個利用windows10內建的同步的小工具: Robocopy.exe <br>
 相關的指令網路上很多，在此便不介紹。 <br>
  <br> <br>
-這個是我同步的狀況: <br>
+這個是我的同步狀況: <br>
 ![圖1](https://github.com/jiannan1828/SyncTool/blob/main/SyncWithNetDrive.png)
  <br> <br>
 而同步路徑的清單，由外部的純文字文件列舉: <br>
