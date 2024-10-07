@@ -15,7 +15,7 @@
 ![圖3](https://github.com/jiannan1828/SyncTool/blob/main/ParaSources.png)
  <br> <br>
 然後執行程式後可以看到提示: <br>
-需要你指令 "來源" 與 "目標" <br>
+需要指定給他 "來源" 與 "目標" <br>
 ![圖4](https://github.com/jiannan1828/SyncTool/blob/main/ExecuteState.png)
  <br> <br>
 當選定了 "來源" 與 "目標" 後， <br>
